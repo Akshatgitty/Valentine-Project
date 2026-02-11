@@ -19,7 +19,6 @@ A beautifully crafted, animated Valentine's Day proposal webpage made with love.
 
 ### 🐻 Cute Bear Illustration
 - Fully SVG-drawn bear holding a heart with blinking eyes and a pulsing heart animation
-- Speech bubble: *"Say yes, Anushka!"*
 
 ### ⌨️ Typewriter Effect
 - The proposal question *"Anushka, will you be my Valentine?"* types out letter by letter with a blinking cursor
@@ -59,7 +58,7 @@ When "Yes" is clicked:
 - **Mute/Unmute Toggle** — fixed button in the bottom-right corner
 
 ### 🥚 Easter Eggs
-- **Konami Code** (↑↑↓↓←→←→BA) — triggers a secret confetti explosion with the message *"Anushka + Akshat = ∞ 💖"*
+- **Konami Code** (↑↑↓↓←→←→BA) — triggers a secret confetti explosion with the message 
 - **Click-to-Spawn Hearts** — clicking anywhere on the page spawns floating heart emojis
 - **Secret Message** — appears after 10 interactions with the "No" button
 
